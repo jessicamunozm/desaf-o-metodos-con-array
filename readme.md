@@ -17,3 +17,5 @@ Los ID se formularon según el área (traumatología, radiografía, dental, T,R,
 Para la creación de las tablas, se asignó una variable vacía (let variable = " ") que luego se aplicó dentro de la función del .forEach para poder ejecutar el bucle.
 
 https://github.com/jessicamunozm# desafio-arrays
+
+https://github.com/jessicamunozm/desaf-o-metodos-con-array
