@@ -21,14 +21,15 @@ nav img {
     margin: 1rem;
 }
 
-#dropdownstyle {
+.dropdownstyle {
     background-color: var(--amarillo);
-    font-weight: bolder;
 }
 
-#dropdown {
-    background-color: var(--amarillo);
+.dropdown-item {
+    font-weight: bold;
 }
+
+
 /* FIN NAVBAR */
 
 h1 {
